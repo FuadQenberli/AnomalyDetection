@@ -14,7 +14,7 @@ Bu layihə, "machine learning" istifadə edərək şəbəkə hücumlarını avto
 - `pandas`, `scikit-learn`
 - **Isolation Forest** modeli
 
-##Dataset
+## Dataset
 
 Layihədə istifadə olunan dataset:
 - [NSL_KDD Dataset](https://github.com/defcom17/NSL_KDD)
